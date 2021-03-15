@@ -1,0 +1,16 @@
+[0m[[0m[31merror[0m] [0m[0m/home/farmerzhang1/program/my-RISCV/src/main/scala/myriscv/immgen.scala:37:13: not found: value I_IMM[0m
+[0m[[0m[31merror[0m] [0m[0m            I_IMM -> I_imm,[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/farmerzhang1/program/my-RISCV/src/main/scala/myriscv/immgen.scala:38:13: not found: value S_IMM[0m
+[0m[[0m[31merror[0m] [0m[0m            S_IMM -> S_imm,[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/farmerzhang1/program/my-RISCV/src/main/scala/myriscv/immgen.scala:39:13: not found: value B_IMM[0m
+[0m[[0m[31merror[0m] [0m[0m            B_IMM -> B_imm,[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/farmerzhang1/program/my-RISCV/src/main/scala/myriscv/immgen.scala:40:13: not found: value U_IMM[0m
+[0m[[0m[31merror[0m] [0m[0m            U_IMM -> U_imm,[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m/home/farmerzhang1/program/my-RISCV/src/main/scala/myriscv/immgen.scala:41:13: not found: value J_IMM[0m
+[0m[[0m[31merror[0m] [0m[0m            J_IMM -> J_imm[0m
+[0m[[0m[31merror[0m] [0m[0m            ^[0m
+[0m[[0m[31merror[0m] [0m[0m5 errors found[0m

@@ -34,7 +34,7 @@ class DatapathIO extends Bundle {
     val fetch_addr = Output (UInt (32.W))
 }
 
-class DatapathIO extends Module {
+class Datapath extends Module {
     val io = IO (new DatapathIO)
     val alu = new ALU
     val immgen = new ImmGen

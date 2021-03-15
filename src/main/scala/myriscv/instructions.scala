@@ -1,4 +1,5 @@
 package riscv
+import chisel3.util._
 object Instructions {
     // I type
     val SLLI   = BitPat("b0000000??????????001?????0010011")
